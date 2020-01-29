@@ -1,4 +1,4 @@
 def main():
-    print("Hooray!")
+    print("Hooray for Git!")
 
 main()
